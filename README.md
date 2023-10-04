@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **sahuposhan610@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1Ud5U2alBLYb8iP6TrsHRUPyqCLS2Egtw/view?usp=sharing](https://drive.google.com/file/d/1Ud5U2alBLYb8iP6TrsHRUPyqCLS2Egtw/view?usp=sharing)
-
 - ⚡ fact **Always intrested to learn new Technologies**
 
 <h3 align="left">Connect with me:</h3>
