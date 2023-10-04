@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Poshan Sahu</h1>
 <h3 align="center">A Fresher with good technical skills & passionate to learn</h3>
 
-- 🌱 I’m currently learning **React, Redux, Spring and AWS**
+- 🌱 I’m currently learning **Spring Boot, Microservices, Rest API and Angular**
 
-- 💬 Ask me about **PHP, MySQL, Java**
+- 💬 Ask me about **Spring Boot, JAVA, Mysql**
 
 - 📫 How to reach me **sahuposhan610@gmail.com**
 
